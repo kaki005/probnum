@@ -8,7 +8,7 @@
 name = "probnum"
 description = "Probabilistic Numerics in Python."
 readme = "README.md"
-requires-python = ">=3.8,<3.12"
+requires-python = ">=3.8,<=3.13"
 license = {file = "LICENSE.txt"}
 keywords = [
     "probabilistic-numerics",
